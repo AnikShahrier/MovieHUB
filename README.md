@@ -1,7 +1,5 @@
 
-***
 
-```markdown
 # 🎬 MovieHUB
 
 
@@ -112,7 +110,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by Anik Shahrier</sub>
-</div>
-```
+<p align="center">
+  <a>Built with ❤️ by Anik Shahrier</a>
+</p>
+
